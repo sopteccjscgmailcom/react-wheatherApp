@@ -30,7 +30,7 @@ export const App = () => {
 
   return (
     <>
-      <div className='grid justify-center bg-blue-100 border border-gray-300 rounded-md'>
+      <div className='grid justify-center  border border-gray-300 rounded-md'>
         <header className='grid place-items-center m-8'>
           <h1 className='text-2xl font-bold text-blue-500'>Aplicacion del Clima</h1>
         </header>
